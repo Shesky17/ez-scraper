@@ -1,2 +1,2 @@
-# EZ-scraper
+# ez-scraper
 ez to use text scraper
